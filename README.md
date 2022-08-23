@@ -27,4 +27,7 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
+<code><img width="5%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
+
+## Some random jokes from an API 😉
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=algolia)
